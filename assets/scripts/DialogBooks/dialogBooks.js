@@ -14,9 +14,6 @@ btnSubmitBook.onclick = function () {
 
     if ((fieldsBooks[0].value !== '') && (fieldsBooks[1].value !== '') && (fieldsBooks[2].value !== '')) {
         modal.showModal()
-        fieldsBooks[0].value = ''
-        fieldsBooks[1].value = ''
-        fieldsBooks[2].value = ''
     }
 }
 
