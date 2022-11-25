@@ -14,9 +14,6 @@ btnSubmitContact.onclick = function() {
 
     if ((fieldsContactUs[0].value !== '') && (fieldsContactUs[1].value !== '') && (fieldsContactUs[2].value !== '')) {
         modal.showModal()
-        fieldsContactUs[0].value = ''
-        fieldsContactUs[1].value = ''
-        fieldsContactUs[2].value = ''
     }
 }
 
