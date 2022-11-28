@@ -44,3 +44,4 @@
 - [Caio Melo](https://github.com/CaioMelo10)
 - [Walter Borges](https://github.com/wabpe)
 - [Ednaldo Luiz](https://github.com/EdnaldoLuiz)
+- [Bruno Henrique](https://github.com/brunohnsouza)
